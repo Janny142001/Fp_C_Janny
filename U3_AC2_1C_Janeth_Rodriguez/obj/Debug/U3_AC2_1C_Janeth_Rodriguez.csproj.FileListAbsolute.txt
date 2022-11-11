@@ -1,0 +1,3 @@
+C:\Users\Tecnologico\source\repos\U3_AC2_1C_Janeth_Rodriguez\obj\Debug\U3_AC2_1C_Janeth_Rodriguez.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\U3_AC2_1C_Janeth_Rodriguez\obj\Debug\U3_AC2_1C_Janeth_Rodriguez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tecnologico\source\repos\U3_AC2_1C_Janeth_Rodriguez\obj\Debug\U3_AC2_1C_Janeth_Rodriguez.csproj.CoreCompileInputs.cache
